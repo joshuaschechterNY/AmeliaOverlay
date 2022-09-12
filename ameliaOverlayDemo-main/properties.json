@@ -1,0 +1,14 @@
+{
+  "originUrl": "https://dinersclub.demo.amelia.com/",
+  "ameliaUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/?domainCode=dinersclub",
+  "chatUrl": "https://dinersclub.demo.amelia.com/Amelia/ui/dinersclub/",
+  "parentUrl": "https://www.dinersclub.com.ec/",
+  "actions": {
+    "nav_titanium-visa-corporate": {
+      "url": "https://www.dinersclub.com.ec/empresas/tarjetas-corporativas-titanium/titanium-visa-corporate"
+    },
+    "nav_plan-de-ahorro-diners-club-pad": {
+      "url": "https://www.dinersclub.com.ec/ahorros/plan-de-ahorro-diners-club-pad"
+    }
+  }
+}
