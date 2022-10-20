@@ -1,7 +1,7 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/csl/chat/chat?domainCode=csldemo",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/csl/chat/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/builtin/",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/builtin/",
   "parentUrl": "https://www.cslbehring.com/products",
   "actions": {
     "nav_titanium-visa-corporate": {
