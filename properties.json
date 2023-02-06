@@ -1,7 +1,7 @@
 {
   "originUrl": "https://lvhospitality.demo.amelia.com",
   "ameliaUrl": "https://lvhospitality.demo.amelia.com/Amelia/",
-  "chatUrl": "https://lvhospitality.demo.amelia.com/Amelia/ui/lvhospitality/1/chat",
+  "chatUrl": "https://lvhospitality.demo.amelia.com/Amelia/ui/lvhospitality/",
   "parentUrl": "https://www.caesars.com/las-vegas",
   "actions": {
     "nav_titanium-visa-corporate": {
